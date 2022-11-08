@@ -6,4 +6,5 @@ This table shows some of major currency crisis around the world. We define a cur
 
 
 
-![file_show](https://user-images.githubusercontent.com/46971211/200660173-6b7a8c63-0d96-43dc-a78e-d9d0a195d8e0.png)
+
+![file_show](https://user-images.githubusercontent.com/46971211/200660773-e2f99dac-2302-4ad1-b642-c950fd85983c.png)
